@@ -1,10 +1,10 @@
 {
     "pack": {
-        "pack_format": 1,
-        "name": "Server Resourcepack",
-        "description": "Generated with https://github.com/OffsetMods538/Github-Resourcepack-Manager",
+        "pack_format": 26,
+        "name": "\u00A75l\u00A79o\u00A7bp\u00A7r.\u00A7at\u00A7eo\u00A76w\u00A7cn",
+        "description": "[20241223]"
         "supported_formats": {
-            "min_inclusive": 1,
+            "min_inclusive": 26,
             "max_inclusive": 99
         }
     }
